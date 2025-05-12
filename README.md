@@ -12,7 +12,7 @@ Se utilizará el uso de try-catch-throw. para mostrar errores en pantalla o cerr
 # Cartas para adivinar los pares.
 ![image](https://github.com/user-attachments/assets/bd842665-0b4d-4bf4-95a1-db6c31960396)
 # Par no encontrado.
-Al seleccionar una carta se muestra el numero de esa posición, ejemplo carta número uno.
+Al seleccionar una carta se muestra el numero de esa posición, ejemplo carta número uno.  <br>
 
 ![image](https://github.com/user-attachments/assets/9ff7a546-872f-411d-997a-dc91771e680c)
 Carta número 3, en este caso no hay un par
