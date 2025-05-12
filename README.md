@@ -15,7 +15,7 @@ Se utilizará el uso de try-catch-throw. para mostrar errores en pantalla o cerr
 Al seleccionar una carta se muestra el numero de esa posición, ejemplo carta número uno.
 
 ![image](https://github.com/user-attachments/assets/9ff7a546-872f-411d-997a-dc91771e680c)
-Carta número 3, en este caso no hay un par  <br>
+<br>  Carta número 3, en este caso no hay un par  <br>
 
 ![image](https://github.com/user-attachments/assets/17184a84-8abe-4a6a-8b1f-9e2ce101a29b)
 # Par encontrado.
