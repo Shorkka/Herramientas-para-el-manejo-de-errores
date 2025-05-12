@@ -7,3 +7,16 @@ Se utilizará el uso de try-catch-throw. para mostrar errores en pantalla o cerr
 
 # Menu Principal
 ![image](https://github.com/user-attachments/assets/fae9a47c-1b40-41c2-a866-3705a7c7ef84)
+
+#Memorizar cartas
+![image](https://github.com/user-attachments/assets/297bb94f-ef58-4753-a7ee-ab7382457dc5)
+
+#Cartas para adivinar los pares
+![image](https://github.com/user-attachments/assets/bd842665-0b4d-4bf4-95a1-db6c31960396)
+
+Al seleccionar una carta se muestra el numero de esa posición, ejemplo carta número uno.
+![image](https://github.com/user-attachments/assets/9ff7a546-872f-411d-997a-dc91771e680c)
+
+Carta número 3, en este caso no hay un par
+![image](https://github.com/user-attachments/assets/17184a84-8abe-4a6a-8b1f-9e2ce101a29b)
+
